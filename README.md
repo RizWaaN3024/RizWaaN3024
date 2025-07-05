@@ -14,11 +14,9 @@
 
 <br/>
 
-<table>
-<tr>
-<td width="50%">
-
 ## 🚀 About Me
+
+<img align="right" alt="Coding" width="300" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
 ```typescript
 const rizwaan = {
@@ -35,14 +33,7 @@ const rizwaan = {
 };
 ```
 
-</td>
-<td width="50%">
-
-<img align="center" alt="Coding" width="280" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
-
-</td>
-</tr>
-</table>
+<br clear="right"/>
 
 ## 🛠️ Tech Arsenal
 
