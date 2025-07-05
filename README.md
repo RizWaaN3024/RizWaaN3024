@@ -14,9 +14,11 @@
 
 <br/>
 
-## 🚀 About Me
+<table>
+<tr>
+<td width="50%">
 
-<img align="right" alt="Coding" width="300" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+## 🚀 About Me
 
 ```typescript
 const rizwaan = {
@@ -28,115 +30,32 @@ const rizwaan = {
   passion: [
     "Building scalable applications",
     "Performance optimization",
-    "Modern web technologies",
-    "Mobile app development"
-  ],
-  
-  currentlyWorkingOn: [
-    "Healthcare applications",
-    "Doctor/Patient mobile apps",
-    "Enterprise web platforms"
+    "Modern web technologies"
   ]
 };
 ```
 
-<br clear="right"/>
+</td>
+<td width="50%">
+
+<img align="center" alt="Coding" width="280" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+
+</td>
+</tr>
+</table>
 
 ## 🛠️ Tech Arsenal
 
 <div align="center">
 
-### Frontend Magic ✨
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=1F2937&labelColor=374151)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white&labelColor=374151)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=374151)
 ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=1F2937&labelColor=374151)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white&labelColor=374151)
-
-### Backend Power ⚡
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=374151)
-![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white&labelColor=374151)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white&labelColor=374151)
-![Symfony](https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white&labelColor=374151)
-
-### Database & DevOps 🗄️
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=374151)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=374151)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=374151)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=374151)
-
-</div>
-
-## 🎯 Featured Projects
-
-<div align="center">
-  
-<table>
-<tr>
-<td width="50%">
-
-### 🚀 [Quickfly.ae](https://quickfly.ae)
-**Dubai Cargo Platform**
-
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white)
-
-✨ Complete frontend development  
-📧 EmailJS integration  
-📱 Fully responsive design  
-🎯 SEO optimized  
-
-</td>
-<td width="50%">
-
-### 💬 Chatty - Real-Time Chat
-**Full-Stack Chat Application**
-
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white)
-
-⚡ Real-time messaging  
-🔐 User authentication  
-📱 Cross-platform support  
-🎨 Modern UI/UX  
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🛠️ ScreenFixer Platform
-**Repair Management System**
-
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![Symfony](https://img.shields.io/badge/Symfony-000000?style=flat-square&logo=symfony&logoColor=white)
-
-🔧 Complete platform development  
-🔌 Custom API endpoints  
-💼 Admin dashboard  
-🎯 Business automation  
-
-</td>
-<td width="50%">
-
-### 📱 RepairSeva Mobile App
-**Technician Management**
-
-![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![PhonePe](https://img.shields.io/badge/PhonePe-6A5ACD?style=flat-square&logoColor=white)
-
-📋 Lead management  
-💳 Payment integration  
-📊 Job tracking  
-🚀 Production ready  
-
-</td>
-</tr>
-</table>
 
 </div>
 
@@ -155,15 +74,79 @@ const rizwaan = {
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=RizWaaN3024&theme=tokyo-night&bg_color=0D1117&color=E5E7EB&line=6366F1&point=10B981&area=true&hide_border=true" width="100%"/>
 </div>
 
-## 🏆 Achievements & Highlights
+## 🎯 Featured Projects
+
+<div align="center">
+  
+<table>
+<tr>
+<td width="50%">
+
+### 🚀 [Quickfly.ae](https://quickfly.ae)
+**Dubai Cargo Platform**
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+
+✨ Complete frontend development  
+📧 EmailJS integration  
+📱 Fully responsive design
+
+</td>
+<td width="50%">
+
+### 💬 Chatty - Real-Time Chat
+**Full-Stack Chat Application**
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+
+⚡ Real-time messaging  
+🔐 User authentication  
+📱 Cross-platform support
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🛠️ ScreenFixer Platform
+**Repair Management System**
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+
+🔧 Complete platform development  
+🔌 Custom API endpoints  
+💼 Admin dashboard
+
+</td>
+<td width="50%">
+
+### 📱 RepairSeva Mobile App
+**Technician Management**
+
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+
+📋 Lead management  
+💳 Payment integration  
+🚀 Production ready
+
+</td>
+</tr>
+</table>
+
+</div>
+
+## 🏆 Highlights
 
 <div align="center">
   
 🎯 **Performance Champion** - Boosted MoEngage site from 60 to 96+ PageSpeed score  
 🌍 **International Collaboration** - Successfully delivered projects for Dubai-based clients  
 📱 **Cross-Platform Expert** - Built production apps for healthcare and logistics  
-💳 **Payment Integration Specialist** - Seamless PhonePe and payment gateway implementations  
-🚀 **Production Ready** - 2+ years of enterprise and startup experience  
+💳 **Payment Integration Specialist** - Seamless PhonePe implementations  
 
 </div>
 
