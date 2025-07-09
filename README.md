@@ -50,21 +50,6 @@ const rizwaan = {
 
 </div>
 
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RizWaaN3024&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=6366F1&icon_color=10B981&text_color=E5E7EB&border_color=30363D"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RizWaaN3024&layout=compact&langs_count=8&theme=tokyonight&bg_color=0D1117&title_color=6366F1&text_color=E5E7EB&border_color=30363D"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RizWaaN3024&theme=tokyonight&background=0D1117&stroke=30363D&ring=6366F1&fire=10B981&currStreakLabel=E5E7EB" alt="GitHub Streak"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RizWaaN3024&theme=tokyo-night&bg_color=0D1117&color=E5E7EB&line=6366F1&point=10B981&area=true&hide_border=true" width="100%"/>
-</div>
-
 ## 🏆 Highlights
 
 <div align="center">
