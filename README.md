@@ -7,7 +7,6 @@ I love building scalable web applications with modern technologies and turning i
 Outside of code, you'll find me exploring new tech trends, solving problems on LeetCode, or working on side projects. I also enjoy sharing knowledge and collaborating with fellow developers.
 
 **Fun Facts:**
-- I boosted MoEngage's site performance from 60 to 96+ PageSpeed score
 - I've delivered projects for international clients in Dubai
 - React and TypeScript are my go-to tools for building amazing UIs
 
