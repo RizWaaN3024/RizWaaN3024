@@ -1,25 +1,18 @@
-# Rizwaan Ansari
+# Hi there! 👋
 
-**Full-Stack Developer** • Bangalore, India
+I'm **Rizwaan**, a full-stack developer based in Bangalore, India.
 
-Building scalable web applications with modern technologies. 2+ years of experience in React, Next.js, and Node.js.
+I love building scalable web applications with modern technologies and turning ideas into fast, accessible interfaces that feel effortless.
 
-## Tech Stack
+Outside of code, you'll find me exploring new tech trends, solving problems on LeetCode, or working on side projects. I also enjoy sharing knowledge and collaborating with fellow developers.
 
-**Frontend:** React, Next.js, TypeScript, React Native  
-**Backend:** Node.js, PHP  
-**Database:** MongoDB, MySQL  
+**Fun Facts:**
+- I boosted MoEngage's site performance from 60 to 96+ PageSpeed score
+- I've delivered projects for international clients in Dubai
+- React and TypeScript are my go-to tools for building amazing UIs
 
-## Recent Highlights
-
-- 🚀 Improved MoEngage site performance from 60 to 96+ PageSpeed score
-- 🌍 Delivered projects for international clients in Dubai
-- 📱 Built production apps for healthcare and logistics sectors
-
-## Connect
-
-[LinkedIn](https://linkedin.com/in/rizwaan-dev) • [Email](mailto:rizwaanans786@gmail.com) • [LeetCode](https://leetcode.com/u/___rizwaan___/)
+**Tech I work with:** React, React Native, Next.js, TypeScript, Node.js, MongoDB, PHP, Symfony, Jest, Docker
 
 ---
 
-💼 Open to new opportunities and collaborations
+💼 Currently open to new opportunities • [LinkedIn](https://linkedin.com/in/rizwaan-dev) • [Email](mailto:rizwaanans786@gmail.com)
